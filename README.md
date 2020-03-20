@@ -4,7 +4,7 @@
 > 原书为英文版本：《[The Hundred-Page Machine Learning Book](http://themlbook.com/)》， by [Andriy Burkov](http://themlbook.com/wiki/doku.php)
 > 欢迎参与和完善：为人类知识作出力所能及的奉献的同时个人也会收获满满。
 
-## 原书目录：
+## [原书](https://github.com/htsong/ML_Book_100pg_zh/blob/master/The_HundredPage_Machine_Learning_Book.pdf)目录：
 ### Preface
 + Chapter 1: Introduction
 * Part I: Supervised Learning
