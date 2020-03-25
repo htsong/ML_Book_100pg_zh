@@ -1,5 +1,5 @@
 ## ML_Book_100pg_zh
-#《百页机器学习书》中文版的在线翻译
+#《百页机器学习书》课程教学相关的重点内容中文翻译和中文学习配套资料开发
 
 > 原书为英文版本：《[The Hundred-Page Machine Learning Book](http://themlbook.com/)》， by [Andriy Burkov](http://themlbook.com/wiki/doku.php)
 > 欢迎参与和完善：为人类知识作出力所能及的奉献的同时个人也会收获满满。
